@@ -70,6 +70,7 @@ int main( void )
     printf("Countdown complete\n");
     fflush( NULL );
   }
+  
   return EXIT_SUCCESS;
 }
 
